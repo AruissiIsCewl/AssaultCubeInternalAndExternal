@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(115,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 25 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  goopah.vcxproj -> C:\Users\Ray\source\repos\goopah\Release\goopah.exe

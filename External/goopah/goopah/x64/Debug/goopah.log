@@ -1,0 +1,39 @@
+﻿  main.cpp
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(115,25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(178,27): warning C4312: 'type cast': conversion from 'const int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(192,27): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(193,27): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(194,27): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(195,27): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(196,27): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(197,27): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(198,27): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(199,27): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(200,27): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(206,31): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(210,32): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(214,33): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(217,34): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(221,35): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(225,36): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(229,37): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(233,38): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(237,39): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(268,29): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(269,29): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(270,29): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(271,29): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(272,29): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(273,29): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(277,30): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(278,30): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(279,30): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(285,28): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(286,28): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(287,28): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(288,28): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(289,28): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(290,28): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(291,28): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+C:\Users\Ray\source\repos\goopah\goopah\main.cpp(292,28): warning C4312: 'type cast': conversion from 'int' to 'LPVOID' of greater size
+  goopah.vcxproj -> C:\Users\Ray\source\repos\goopah\x64\Debug\goopah.exe

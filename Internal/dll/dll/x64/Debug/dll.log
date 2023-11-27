@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\Ray\source\repos\dll\dll\main.cpp(14,4): warning C4312: 'reinterpret_cast': conversion from 'const int' to 'int32_t *' of greater size
+C:\Users\Ray\source\repos\dll\dll\main.cpp(14,50): warning C4244: '=': conversion from 'double' to 'int32_t', possible loss of data
+  dll.vcxproj -> C:\Users\Ray\source\repos\dll\x64\Debug\dll.dll

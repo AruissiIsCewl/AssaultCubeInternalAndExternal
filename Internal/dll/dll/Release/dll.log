@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\Ray\source\repos\dll\dll\main.cpp(159,23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  1 of 15 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  dll.vcxproj -> C:\Users\Ray\source\repos\dll\Release\dll.dll
